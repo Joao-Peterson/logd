@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2023/01/25 17:38:17.778,C:\msys64\home\peterson\source\logd\test\Utests.pas=</Transaction>
-    <Transaction>2023/01/25 17:38:29.714,=C:\msys64\home\peterson\source\logd\test\Utests.pas</Transaction>
-    <Transaction>2023/01/25 17:38:40.624,=C:\msys64\home\peterson\source\logd\src\Ulog.pas</Transaction>
-  </Transactions>
-</BorlandProject>

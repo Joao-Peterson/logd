@@ -1,0 +1,15 @@
+modules/
+.vscode/
+__history/
+__recovery/
+Win*/
+     
+*.delphilsp.json
+*.pem
+*.local
+*.identcache
+*.dcu
+*.exe
+*.log
+*.bak
+*.res
